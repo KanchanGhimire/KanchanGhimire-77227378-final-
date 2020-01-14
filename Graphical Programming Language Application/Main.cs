@@ -245,14 +245,18 @@ namespace Graphical_Programming_Language_Application
 
         private void btn_console1clear_Click(object sender, EventArgs e)
         {
-            
+            rtxt_console.Text = "";
+            Graphics g1 = drawareapanel.CreateGraphics();
+            g1.Clear(drawareapanel.BackColor);
+            rtxt_errors.Text = "";
+            rtxt_history.Text = "";
 
 
-            
-            
-            
 
-            
+
+
+
+
 
 
         }
