@@ -1,0 +1,11 @@
+C:\assignment\ASE\2nd assignment\Graphical Programming Language Application.exe.config
+C:\assignment\ASE\2nd assignment\Graphical Programming Language Application.exe
+C:\assignment\ASE\2nd assignment\Graphical Programming Language Application.pdb
+C:\assignment\ASE\2nd assignment\Graphical Programming Language Application.xml
+C:\Users\DELL\Downloads\Graphical Programming Language Application\Graphical Programming Language Application\obj\Debug\Graphical Design Software.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Graphical Programming Language Application\Graphical Programming Language Application\obj\Debug\Graphical_Programming_Language_Application.Console.resources
+C:\Users\DELL\Downloads\Graphical Programming Language Application\Graphical Programming Language Application\obj\Debug\Graphical_Programming_Language_Application.Main.resources
+C:\Users\DELL\Downloads\Graphical Programming Language Application\Graphical Programming Language Application\obj\Debug\Graphical_Programming_Language_Application.Properties.Resources.resources
+C:\Users\DELL\Downloads\Graphical Programming Language Application\Graphical Programming Language Application\obj\Debug\Graphical Design Software.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Graphical Programming Language Application\Graphical Programming Language Application\obj\Debug\Graphical Programming Language Application.exe
+C:\Users\DELL\Downloads\Graphical Programming Language Application\Graphical Programming Language Application\obj\Debug\Graphical Programming Language Application.pdb
